@@ -2,8 +2,8 @@
 
 <!-- Banner -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://airlockapp.io/logo-dark.svg" />
-  <img alt="Airlock" src="https://airlockapp.io/logo.svg" width="220" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://airlockapp.io/airlock-logo.png" />
+  <img alt="Airlock" src="https://airlockapp.io/airlock-logo.png" width="220" />
 </picture>
 
 <br/>
