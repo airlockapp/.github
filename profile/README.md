@@ -7,12 +7,7 @@
   <img alt="Airlock" src="https://airlockapp.io/brand_trans_light.png" width="320">
 </picture>
 
-<br/>
-
-# Airlock
-
 ### Human-in-the-loop security for AI coding agents
-
 **Intercept. Review. Approve. Stay in control.**
 
 [![Website](https://img.shields.io/badge/Website-airlockapp.io-6366f1?style=for-the-badge&logo=globe&logoColor=white)](https://airlockapp.io)
