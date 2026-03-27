@@ -2,9 +2,14 @@
 
 <!-- Banner -->
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://airlockapp.io/airlock-logo.png" />
-  <img alt="Airlock" src="https://airlockapp.io/airlock-logo.png" width="220" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://airlockapp.io/brand_trans_dark.png" />
+  <img alt="Airlock" src="https://airlockapp.io/brand_trans_dark.png" width="320" />
 </picture>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://airlockapp.io/brand_trans_light.png" />
+  <img alt="Airlock" src="https://airlockapp.io/brand_trans_light" width="320" />
+</picture>
+
 
 <br/>
 
