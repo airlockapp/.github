@@ -2,7 +2,7 @@
 
 <!-- Banner -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://airlockapp.io/airlock-logo.png" />
+  <source media="(prefers-color-scheme: light)" srcset="https://airlockapp.io/airlock-logo.png" />
   <img alt="Airlock" src="https://airlockapp.io/airlock-logo.png" width="220" />
 </picture>
 
