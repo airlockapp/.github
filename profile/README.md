@@ -6,7 +6,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://airlockapp.io/brand_trans_light.png">
   <img alt="Airlock" src="https://airlockapp.io/brand_trans_light.png" width="320">
 </picture>
-
+# Airlock
 ### Human-in-the-loop security for AI coding agents
 **Intercept. Review. Approve. Stay in control.**
 
